@@ -20,7 +20,7 @@ Section 2 | Group 8 | Instructor: Md. Khalilur Rahman, PhD
 
 ## Project Overview
 
-![Smart Window Robot](images/smart-window-robot.png)
+![Smart Window Robot](./Smart%20Rain%20DEtection%20Project%20.jpg)
 
 Unpredictable rainfall causes interior water damage when manual windows are left unattended. This project solves that problem with a low-cost, autonomous robot that:
 
